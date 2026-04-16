@@ -23,6 +23,7 @@
       "id": "auto-project",
       "name": "Auto Project",
       "category": "Projet",
+      "type": "startup",
       "description": "Initialise automatiquement la structure complète d'un nouveau projet AE (dossiers, compositions, formats) dès l'ouverture d'un projet vide.",
       "version": "1.0.0",
       "changelog": "Version initiale",
