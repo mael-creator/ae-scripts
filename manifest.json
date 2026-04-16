@@ -2,32 +2,32 @@
   "version": "1.0.0",
   "scripts": [
     {
-      "id": "script-1",
-      "name": "Nom du Script 1",
-      "description": "Description courte de ce que fait le script.",
+      "id": "smart-precomp-resizer",
+      "name": "Smart Precomp Resizer",
+      "description": "Redimensionne et/ou change la durée d'une précompo et de toutes ses sous-précomps en un clic, sans recadrer manuellement chaque calque.",
       "version": "1.0.0",
-      "file": "scripts/script1.jsx"
+      "file": "scripts/SmartPrecompResizer.jsx"
     },
     {
-      "id": "script-2",
-      "name": "Nom du Script 2",
-      "description": "Description courte de ce que fait le script.",
+      "id": "add-video-panel",
+      "name": "Add Video Panel",
+      "description": "Crée en un clic toutes les compositions d'une nouvelle vidéo (9-16, 4-5, 1-1…) avec la nomenclature et l'arborescence projet standardisées.",
       "version": "1.0.0",
-      "file": "scripts/script2.jsx"
+      "file": "scripts/StrideUp_AddVideo_Panel.jsx"
     },
     {
-      "id": "script-3",
-      "name": "Nom du Script 3",
-      "description": "Description courte de ce que fait le script.",
+      "id": "auto-project",
+      "name": "Auto Project",
+      "description": "Initialise automatiquement la structure complète d'un nouveau projet AE (dossiers, compositions, formats) dès l'ouverture d'un projet vide.",
       "version": "1.0.0",
-      "file": "scripts/script3.jsx"
+      "file": "scripts/StrideUp_AutoProject.jsx"
     },
     {
-      "id": "script-4",
-      "name": "Nom du Script 4",
-      "description": "Description courte de ce que fait le script.",
+      "id": "color-palette-panel",
+      "name": "Color Palette Panel",
+      "description": "Gère et sauvegarde les palettes de couleurs de tes marques pour les appliquer rapidement sans ressortir les codes hex à chaque projet.",
       "version": "1.0.0",
-      "file": "scripts/script4.jsx"
+      "file": "scripts/StrideUp_ColorPalette_Panel.jsx"
     }
   ]
 }
