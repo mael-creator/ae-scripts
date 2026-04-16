@@ -1,0 +1,33 @@
+{
+  "version": "1.0.0",
+  "scripts": [
+    {
+      "id": "script-1",
+      "name": "Nom du Script 1",
+      "description": "Description courte de ce que fait le script.",
+      "version": "1.0.0",
+      "file": "scripts/script1.jsx"
+    },
+    {
+      "id": "script-2",
+      "name": "Nom du Script 2",
+      "description": "Description courte de ce que fait le script.",
+      "version": "1.0.0",
+      "file": "scripts/script2.jsx"
+    },
+    {
+      "id": "script-3",
+      "name": "Nom du Script 3",
+      "description": "Description courte de ce que fait le script.",
+      "version": "1.0.0",
+      "file": "scripts/script3.jsx"
+    },
+    {
+      "id": "script-4",
+      "name": "Nom du Script 4",
+      "description": "Description courte de ce que fait le script.",
+      "version": "1.0.0",
+      "file": "scripts/script4.jsx"
+    }
+  ]
+}
