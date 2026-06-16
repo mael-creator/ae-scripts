@@ -39,6 +39,15 @@
       "file": "scripts/ImportFilesAE.jsx"
     },
     {
+      "id": "true-comp-duplicator",
+      "name": "True Comp Duplicator",
+      "category": "Compositions",
+      "description": "Duplique une hiérarchie de comps complète (sous-comps incluses) en une seule action, sans perdre les références ni dupliquer deux fois la même comp.",
+      "version": "3.9.7",
+      "changelog": "Version initiale",
+      "file": "scripts/TrueCompDuplicator.jsx"
+    },
+    {
       "id": "hdr-to-sdr",
       "name": "HDR to SDR",
       "category": "Video",
