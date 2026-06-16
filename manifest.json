@@ -30,6 +30,15 @@
       "file": "scripts/StrideUp_AutoProject.jsx"
     },
     {
+      "id": "import-files-ae",
+      "name": "Import Files AE",
+      "category": "Projet",
+      "description": "Importe un dossier entier en recréant toute son arborescence dans le panneau Projet. Les dossiers vides et les doublons sont ignorés automatiquement.",
+      "version": "1.0.0",
+      "changelog": "Version initiale",
+      "file": "scripts/ImportFilesAE.jsx"
+    },
+    {
       "id": "color-palette-panel",
       "name": "Color Palette Panel",
       "category": "Couleurs",
