@@ -39,6 +39,15 @@
       "file": "scripts/ImportFilesAE.jsx"
     },
     {
+      "id": "hdr-to-sdr",
+      "name": "HDR to SDR",
+      "category": "Video",
+      "description": "Convertit les fichiers HDR en SDR Rec.709 via tone-mapping ffmpeg, réimporte le résultat et remplace la source du calque automatiquement.",
+      "version": "1.0.0",
+      "changelog": "Version initiale",
+      "file": "scripts/HDRtoSDR.jsx"
+    },
+    {
       "id": "color-palette-panel",
       "name": "Color Palette Panel",
       "category": "Couleurs",
